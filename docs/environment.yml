@@ -7,5 +7,7 @@ dependencies:
   - matplotlib
   - pillow
   - ipywidgets
+  - amazon-braket-sdk 
   - pip:
+    - pydantic=1.8.2
     - ipycanvas
